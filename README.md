@@ -4,7 +4,7 @@
 <br>
 🌱 I’m currently learning Java & Spring Boot, backend roadmap
 <br>
-🧳 I'm actively searching and applying for an Internship in Backend/Data
+🧳 I'm working as a Junior developer coding primarily in PHP and JavaScript
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
